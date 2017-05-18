@@ -115,10 +115,6 @@ hr {
     margin-top: 20px;
 }
 
-footer {
-
-}
-
 footer p {
     margin: 0;
     padding: 50px 0;
@@ -201,11 +197,15 @@ footer p {
     }
 }
 @media (max-width:767px) {
-.navbar-brand {
+    .navbar-brand {
     text-transform: uppercase;
     font-weight: 900;
     letter-spacing: 2px;
     font-size: 25px;
-    padding-left: 70px;
+    padding-left: 40px;
     }
+    
+    .brand-name {
+    font-size: 3.3em;
+}
 }

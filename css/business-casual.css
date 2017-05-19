@@ -91,6 +91,10 @@ hr {
     background: rgba(255,255,255,0.5);
 }
 
+.contact-box {
+    height: 1950px;
+}
+
 .intro-text {
     text-transform: uppercase;
     font-size: 1.25em;
